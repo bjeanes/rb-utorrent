@@ -1,0 +1,3 @@
+[submodule "core/lib/make_abstract"]
+	path = core/lib/make_abstract
+	url = git@github.com:bjeanes/make_abstract.git
